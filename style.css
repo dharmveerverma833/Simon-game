@@ -1,9 +1,10 @@
 body{
     text-align: center;
+    overflow-y: hidden;
 }
 .btn{
-    height: 180px;
-    width: 180px;
+    height: 160px;
+    width: 160px;
     border-radius: 20px;
     border: 10px solid black;
     margin: 2.5rem;
